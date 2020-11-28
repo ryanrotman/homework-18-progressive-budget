@@ -1,28 +1,32 @@
 {
-  "name": "budget-app",
+  "name": "progressive-budget",
   "version": "1.0.0",
-  "description": "",
+  "description": "Budget Tracker application that has been developed as a progressive web app that will allow for offline access and functionality.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
     "start": "node server.js",
     "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/ryanrotman/homework-18-progressive-budget"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/ryanrotman/homework-18-progressive-budget/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/ryanrotman/homework-18-progressive-budget",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
