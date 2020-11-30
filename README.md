@@ -20,9 +20,7 @@ Installed app on MacOS:
 ![ReadMe_ScreenShot_MacOS](./public/assets/images/ReadMe_ScreenShot_MacOS.png)
 Installed app on iOS:
 
-<p align="center">
-    <img align="center" src="./public/assets/images/ReadMe_ScreenShot_iOS.PNG" alt="ReadMe_ScreenShot_iOS" />
-</p>
+![ReadMe_ScreenShot_iOS](./public/assets/images/ReadMe_ScreenShot_iOS.PNG)
 
 ## Contributing
 Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
